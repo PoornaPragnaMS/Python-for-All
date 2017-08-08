@@ -30,4 +30,3 @@
     summation(0,10,20,30) # we must see the result as 60
     
 
-
