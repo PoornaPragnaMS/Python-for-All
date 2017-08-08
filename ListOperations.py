@@ -1,6 +1,6 @@
 # In this program we are going to see, how to perform any suggested operation from end user on a List
 
-
+L = []
 ip = input("Kindly Enter the operation to be performed on a string").split()
 cmd = ip[0]
 args = ip[1:]
